@@ -4,7 +4,6 @@ pillow
 numpy
 scikit-learn
 joblib
-opencv-python
 insightface
 onnxruntime
 python-multipart
